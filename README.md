@@ -16,3 +16,8 @@ Log:
 - First Item
   - First Item Sublist
     - Sublist
+
+
+\begin{equation}
+\hat{\sigma}^2 = \frac{\sum{(x_i - \bar{x})^2}}{n-1}
+\end{equation}
