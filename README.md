@@ -21,3 +21,6 @@ Log:
 \begin{equation}
 \hat{\sigma}^2 = \frac{\sum{(x_i - \bar{x})^2}}{n-1}
 \end{equation}
+
+
+![funny picture](https://m.economictimes.com/thumb/msid-88176845,width-1200,height-900,resizemode-4,imgsize-81188/google-india.jpg)
