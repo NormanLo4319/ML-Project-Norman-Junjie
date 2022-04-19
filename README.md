@@ -6,3 +6,4 @@ Log:
 4/18/2022: Norman updated the readme file.
 4/18/2222: Norman pushed some files to the repository.
 
+$$y = \beta_0 + \beta_1 * x$$
