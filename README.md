@@ -21,4 +21,6 @@ Log:
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
+**Insert Image:** 
+
 ![funny picture](https://m.economictimes.com/thumb/msid-88176845,width-1200,height-900,resizemode-4,imgsize-81188/google-india.jpg)
